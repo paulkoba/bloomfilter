@@ -5,6 +5,7 @@
 #ifndef BLOOMFILTER_SIMPLE_BLOOM_FILTER_H
 #define BLOOMFILTER_SIMPLE_BLOOM_FILTER_H
 
+#include <stdexcept>
 #include <bitset>
 #include <vector>
 #include <functional>
